@@ -4,20 +4,19 @@
 
 c1: Am
 l1:  Quando ela passa 
-c1:                E
+c2:                E
 l2: Franzina, cheia de graça
-c3: 
 l3: Há sempre um ar de chalaça
 c4:                 Am
 l4: No seu olhar feiticeiro.  
 
-c1: Am
-l1: Lá vai catita 
-c2:                 E
-l2: Cada dia mais bonita,
-l3: E o seu vestido de chita
-c4:                 Am
-l5: Tem sempre um ar domingueiro. 
+c5: Am
+l5: Lá vai catita 
+c6:                 E
+l6: Cada dia mais bonita,
+l7: E o seu vestido de chita
+c8:                 Am
+l8: Tem sempre um ar domingueiro. 
 
 ## Verso 2
 
