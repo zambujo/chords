@@ -1,22 +1,3 @@
-# Verso 2
-
-c1: Dm
-l1: Passa ligeira 
-c1:         Am
-l1: Alegre e namoradeira  
-c1:                 E
-l1: A sorrir p´ra rua inteira  
-c1:                 Am
-l1: Vai semeando ilusões. 
-
-c1: Dm
-l1: Quando ela passa  
-c1:                 Am
-l1: Vai vender limões à praça  
-c1:                 E
-l1: E até lhe chamam por graça  
-c1:                 Am
-l1: A Rosinha dos Limões.  
 
 ## Verso 3
 l1: Quando ela passa

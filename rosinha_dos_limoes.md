@@ -15,3 +15,16 @@ l1: Lá vai catita     Cada dia mais bonita,
 c1:                    E                              Am
 l1: E o seu vestido de chita    Tem sempre um ar domingueiro.
 
+# Verso 2
+
+c1: Dm                              Am
+l1: Passa ligeira    Alegre e namoradeira  
+
+c1:               E                              Am
+l1: A sorrir p´ra rua inteira    Vai semeando ilusões. 
+
+c1: Dm                                              Am
+l1: Quando ela passa            Vai vender limões à praça  
+
+c1:                      E                         Am
+l1: E até lhe chamam por graça     A Rosinha dos Limões.  
