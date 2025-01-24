@@ -17,13 +17,13 @@ l1: E o seu vestido de chita    Tem sempre um ar domingueiro.
 
 ## Verso 2
 
-c1: Dm                              Am
-l1: Passa ligeira    Alegre e namoradeira  
+c1:         Dm                        Am
+l1: Passa ligeira      Alegre e namoradeira  
 
-c1:               E                              Am
+c1:                     E                        Am
 l1: A sorrir p´ra rua inteira    Vai semeando ilusões. 
 
-c1: Dm                                              Am
+c1:            Dm                                   Am
 l1: Quando ela passa            Vai vender limões à praça  
 
 c1:                      E                         Am
@@ -46,14 +46,14 @@ l1: Rindo por tudo e por nada     E às vezes sorri p´ra mim.
 
 ## Verso 4
 
-c1: Dm                            Am
+c1:            Dm                             Am
 l1: Quando ela passa          Apregoando os limões,
 
 c1:                     E                          Am
 l1: A sós com os meus botões     No vão da minha janela.
 
-c1: Dm                                          Am
-l1: Fico pensando          Que qualquer dia por graça,
+c1:         Dm                                     Am
+l1: Fico pensando             Que qualquer dia por graça,
 
-c1:                      E                        Am
-l1: Vou comprar limões à praça  E Depois caso com ela.
+c1:                      E                             Am
+l1: Vou comprar limões à praça       E Depois caso com ela.
