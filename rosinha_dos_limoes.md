@@ -1,4 +1,4 @@
-# Rosinha dos Limoes, Max
+# Rosinha dos Limoes
 
 ## Verso 1
 
