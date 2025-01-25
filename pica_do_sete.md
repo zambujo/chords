@@ -70,3 +70,7 @@ l1: Pois na carreira ___ desta vida vã, ___
 
 c1:              Bm              E7              A
 l1: Mais nada me dá a pica que o pica do sete me dá.
+
+c1: Dm                    Am                G
+l2: They don't know how   long it  takes
+l1:            They don't know how long  it takes
