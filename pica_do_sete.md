@@ -15,7 +15,7 @@ l1: Eu bem que não queria mas um certo dia eu vi-o passar ___
 c1:               A                       E7                  A
 l1: E o meu peito céptico por um pica de eléctrico voltou a sonhar.
 
-# Verso 2
+## Verso 2
 
 c1:   A                                           Bm       F#7        Bm
 l1: A cada repique que soa do clique de aquele alicate
@@ -43,7 +43,7 @@ l1: Pois na carreira ___ desta vida vã, ___
 c1:              Bm              E7              A
 l1: Mais nada me dá a pica que o pica do sete me dá.
 
-# Verso 3
+## Verso 3
 
 c1:     A                                       Bm     F#7    Bm
 l1: Que triste fadário e que itinerário tão infeliz,
